@@ -1,5 +1,8 @@
 
 """
+بسم الله الرحمن الرحیم
+محمد سجاد شریفی پناه
+
 1.  How many seconds are there in 42 minutes 42 seconds?
 
 2.  How many miles are there in 10 kilometers? Hint: there are 1.61 kilometers in a mile.
