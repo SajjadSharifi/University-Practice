@@ -29,6 +29,9 @@ def reversPrinter2 (numberOfPrinting: int, text: str):
         for i in range(numberOfPrinting, 0, -1):
                 print(i ,": ", text)
 
+reversPrinter2(6,"In the name of Allah")
+reversPrinter(99, "ya ali")
 triangle("S",7)
 rectangle("S",5,6)
-reversPrinter2(6,"In the name of Allah")
+
+
