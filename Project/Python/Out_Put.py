@@ -1,6 +1,7 @@
 from The_Functions import MyOprations
 from Tools import Tools
 from colorama import init, Fore, Back, Style
+oprationCount = 0
 try:
     print("Wellcome to our program :-)")
     #برای اینکه برنامه ادامه پیدا کنه یا بره بیرون
@@ -17,6 +18,8 @@ try:
     
     # تا زمانی که رانینگ درست باشه برنامه اجرا میشه
     while running:
+        # میخواهیم تعداد باری که کاربر از برنامه در یک بار باز کردن استفاده میکند را داشته باشیم
+        oprationCount +=1
         # شماره هر عملیات رو مینویسم تا یه وقت اشتباه نشه
         print(Fore.LIGHTBLUE_EX,"Oprations Number:", '\n', "1. Area Of Triangle", '\n', "2. Area Of Rectangle", '\n', "3. Proof Of Golden Ratio", '\n',
               "4. Word Reverser", Style.RESET_ALL)
