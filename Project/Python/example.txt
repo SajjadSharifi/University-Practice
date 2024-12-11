@@ -1,3 +1,6 @@
+
+هدف اینه که فرایند برنامه رو به فرمت زیر در یک فایل ذخیره کنیم:
+
 "Opration Number:" "1"
 "the function that used": "none"
 "input: " "2"
