@@ -1,2 +1,0 @@
-Save Log Path = C:\Users\Nobody\Desktop\Think python\Practices\Project\Python
-File Name = logText.txt
