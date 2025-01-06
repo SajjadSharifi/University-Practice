@@ -1,4 +1,4 @@
-from Oprations.The_Functions import MyOprations
+from Oprations.Command.The_Functions import MyOprations
 from Tools.Base_Tools import BaseTools
 from Tools.Sub_Tools import SubTools
 from colorama import init, Fore, Back, Style

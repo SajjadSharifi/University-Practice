@@ -18,7 +18,6 @@ If you are not familiar with this value, ask a virtual assistant "What is `math.
 * Use `math.exp`, which takes as an argument a value, $x$, and computes $e^x$.
 You might notice that the last result is slightly different from the other two.
 See if you can find out which is correct.
-
 ''' 
 import math as Math
 
@@ -36,9 +35,9 @@ def part2 (value : int):
     else:
         print("pls enter a valid number")
 
-def part3(howToDoIt :int):
+def part3(howToDoIt :int) -> int:
     if isinstance(howToDoIt,int):
-        if(howToDoIt ==1):
+        if(howToDoIt == 1):
             print("way 1: simple power operation")
             print(Math.e ** 2)
         elif(howToDoIt ==2):
