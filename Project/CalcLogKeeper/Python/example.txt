@@ -1,9 +1,28 @@
+هدف اینه که فرایند رو به صورت لاگ شده توی یک فایل بنویسیم
+شکل لاگ ما به این صورت خواهد بود
+اگر خطایی هم داشته باشیم چاپ میشه
 
-هدف اینه که فرایند برنامه رو به فرمت زیر در یک فایل ذخیره کنیم:
-
-"Opration Number:" "1"
-"the function that used": "none"
-"input: " "2"
-"outPut": "4"
-اگر خطایی به وجود بیاد هم باید ذکر بشه اگر نه مهم نیست
----------------------------------------------------------
+Author: Mohammad Sajjad Sharifi Panah
+Opration Name: 1
+The Function That Used: 4. Word Reverser
+input: sdfaefwa
+out_put: awfeafds
+--------------------------------------------------
+Opration Name: 2
+The Function That Used: 3. Proof Of Golden Ratio
+input: 234
+out_put: None
+--------------------------------------------------
+Opration Name: 3
+The Function That Used: 4. Word Reverser
+input: sakldf
+out_put: None
+--------------------------------------------------
+Author: Mohammad Sajjad Sharifi Panah
+Sorry Something Went Wrong :-(
+Opration Name: 4
+Last Function That Used: 1.Triangle Area With ThreeSide
+input: ['3242']
+out_put: Error
+Error Massage: ValueError
+--------------------------------------------------

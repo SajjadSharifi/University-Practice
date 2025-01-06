@@ -1,0 +1,2 @@
+Save Log Path =C:\Users\Nobody\Desktop\Think python\Practices\Project\CalcLogKeeper\Python\myLogs
+File Name = LogText.txt

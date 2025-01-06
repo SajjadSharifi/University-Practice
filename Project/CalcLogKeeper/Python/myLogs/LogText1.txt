@@ -1,0 +1,6 @@
+Author: Mohammad Sajjad Sharifi Panah
+Opration Name: 1
+The Function That Used: 4. Word Reverser
+input: sdfsf
+out_put: fsfds
+--------------------------------------------------

@@ -1,0 +1,9 @@
+
+Author: Mohammad Sajjad Sharifi Panah
+Sorry Something Went Wrong :-(
+Opration Name: 1
+Last Function That Used: 
+input: None
+out_put: Error
+Error Massage: ValueError
+--------------------------------------------------
